@@ -3,7 +3,7 @@
 Demo project hướng dẫn **Unit Testing** với **Jest** và **React Native Testing Library** cho môn **Phát triển Ứng dụng trên Thiết bị Di động (CO3043)**.
 
 [![Run Tests](https://github.com/L01-BK/demo_mobile_app/actions/workflows/test.yml/badge.svg)](https://github.com/L01-BK/demo_mobile_app/actions/workflows/test.yml)
-[![SonarCloud](https://github.com/l01-bk/demo_mobile_app/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/l01-bk/demo_mobile_app/actions/workflows/sonarcloud.yml)
+[![SonarCloud Analysis](https://github.com/L01-BK/demo_mobile_app/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/L01-BK/demo_mobile_app/actions/workflows/sonarcloud.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=L01-BK_demo_mobile_app&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=L01-BK_demo_mobile_app)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=L01-BK_demo_mobile_app&metric=coverage)](https://sonarcloud.io/summary/new_code?id=L01-BK_demo_mobile_app)
 
