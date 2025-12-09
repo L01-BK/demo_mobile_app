@@ -11,7 +11,7 @@ Demo project hướng dẫn **Unit Testing** với **Jest** và **React Native T
 
 Project này demo các kỹ thuật testing cho React Native app bao gồm:
 
-
+s
 - ✅ **Unit Testing** với Jest + React Native Testing Library
 - 🤖 **Tự động hóa CI/CD** với GitHub Actions
 - 📊 **Phân tích chất lượng** với SonarCloud
